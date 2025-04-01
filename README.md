@@ -3,5 +3,5 @@ tf01.ipynb:实现了对tensorflow的简单张量操作，实现了一个简单�
 tf02.ipynb:使用tf中的keras高级API来自定义一个Linear层</br>
 tf03.ipynb:使用tensorflow和np身生成数据集并绘制</br>
 tf04.ipynb:tensorflow的keras高级API创建简易的图像分类神经网络模型</br>
-</br>
+tf05.ipynb:tensorflow的一些基础操作，查看张量的参数信息，打印梯度信息   </br>
 </br>
